@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "osint-miner"
+version = "0.1.0"
+description = "CLI tool for OSINT collection"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "*"
+requests = "*"
+dnspython = "*"
+python-whois = "*"
+beautifulsoup4 = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
