@@ -107,7 +107,7 @@ osint-miner/
 ## Example Command
 
 ```sh
-python3 cli2.py scan --type org --name "Example Corp" --domain "example.com"
+python3 cli3.py scan --type org --name "Example Corp" --domain "example.com"
 ```
 
 ***
