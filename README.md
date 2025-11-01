@@ -92,7 +92,7 @@ osint-miner/
 ├── src/
 │   └── osint_miner/
 │       ├── cli.py            # Main entrypoint
-│       ├── cli2.py           # Parallel scanning (faster)
+│       ├── cli3.py           # Parallel scanning (faster)
 │       ├── org_recon.py      # Organization reconnaissance
 │       ├── social_recon/     # Social media OSINT modules
 │       ├── email_recon.py    # Email intelligence
